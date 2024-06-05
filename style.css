@@ -50,3 +50,12 @@ footer {
 h1, p {
     text-shadow: 0 0 10px #4fbc8f,0 0 15px #4fbc8f;
 }
+
+a {
+    color: aqua;
+    text-decoration: none;
+}
+
+aside div {
+    text-align: center;
+}

@@ -1,1 +1,1 @@
-# snail-san.github.io
+# かたつむり.sb3.cs.js.tsの技術ブログ

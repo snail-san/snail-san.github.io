@@ -29,7 +29,7 @@ main {
 article {
     width: 75%;
     border-right: 2px #4db56a solid;
-    padding: 40px;
+    padding: 7% 7% 30% 7%;
     background-color: #333333;
 }
 
@@ -51,11 +51,17 @@ h1, p {
     text-shadow: 0 0 10px #4fbc8f,0 0 15px #4fbc8f;
 }
 
+h1 {
+    font-size: 30px;
+    padding: 8px;
+}
+
 a {
     color: aqua;
     text-decoration: none;
 }
 
-aside div {
+aside div  {
+    margin: 0 auto;
     text-align: center;
 }
